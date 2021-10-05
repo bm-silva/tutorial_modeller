@@ -31,7 +31,7 @@ e = modeller.Environ()
 a = modeller.Alignment(e, file='model-seq.ali')
 
 template = get_profile('reference.profile', a['model'])
-model = get_profile('model.profile', a['model'])
+model = get_profile('model.profile', a['seq'])
 
 # Plot the template and model profiles in the same plot for comparison:
 pylab.figure(1, figsize=(10,6))

@@ -3,7 +3,7 @@
 ## Introdução
 
 É preciso que todos os arquivos estejam na mesma pasta e nomeados de acordo com as suas referências nos scripts. Observação: os nomes podem ser definidos de qualquer maneira, contanto que haja semelhança entre os nomes referenciados nos scripts e os arquivos dentro da pasta. Desta forma, é preferível padronizar todos os nomes para evitar cometer algum erro.
-Neste tutorial, utilizaremos `model.pdb` para o arquivo de referencia e o arquivo `seq.ali` como o arquinvo contendo a sequencia a ser modelada.
+Neste tutorial, utilizaremos `model.pdb` para o arquivo de referencia e o arquivo `seq.ali` como o arquivo contendo a sequencia a ser modelada.
 
 Dentro de cada pasta de exemplo ja se encontram os scripts que serão utilizados e seus respectivos arquivos de entrada e saida.
 

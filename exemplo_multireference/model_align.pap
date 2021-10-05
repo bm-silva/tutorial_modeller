@@ -1,0 +1,44 @@
+ _aln.pos         10        20        30        40        50        60
+model1A   SMSYTWTGALITPCGPEEEKLPINPLSNSLMRFHNKVYSTTSRSASLRAKKVTFDRVQVLDAHYDSVL 
+model2A   SMSYTWTGALITPCGPEEEKLPINPLSNSLMRFHNKVYSTTSRSASLRAKKVTFDRVQVLDAHYDSVL 
+ _consrvd ********************************************************************
+
+ _aln.p   70        80        90       100       110       120       130
+model1A   QDVKRAASKVSARLLTVEEACALTPPHSAKSRYGFGAKEVRSLSRRAVNHIRSVWEDLLEDQHTPIDT 
+model2A   QDVKRAASKVSARLLTVEEACALTPPHSAKSRYGFGAKEVRSLSRRAVNHIRSVWEDLLEDQHTPIDT 
+ _consrvd ********************************************************************
+
+ _aln.pos  140       150       160       170       180       190       200
+model1A   TIMAKNEVFCIDKKPARLIVYPDLGVRVCEKMALYDIAQKLPKAIMGPSYGFQYSPAERVDFLLKAWG 
+model2A   TIMAKNEVFCIDKKPARLIVYPDLGVRVCEKMALYDIAQKLPKAIMGPSYGFQYSPAERVDFLLKAWG 
+ _consrvd ********************************************************************
+
+ _aln.pos    210       220       230       240       250       260       270
+model1A   SKKDPMGFSYDTRCFDSTVTERDIRTEESIYQACSLPQEARTVIHSLTERLYVGGPMTNSKGQSCGYR 
+model2A   SKKDPMGFSYDTRCFDSTVTERDIRTEESIYQACSLPQEARTVIHSLTERLYVGGPMTNSKGQSCGYR 
+ _consrvd ********************************************************************
+
+ _aln.pos      280       290       300       310       320       330       340
+model1A   RCRASGVFTTSMGNTMTCYIKALAACKAAGIVDPVMLVCGDDLVVISESQGNEEDERNLRAFTEAMTR 
+model2A   RCRASGVFTTSMGNTMTCYIKALAACKAAGIVDPVMLVCGDDLVVISESQGNEEDERNLRAFTEAMTR 
+ _consrvd ********************************************************************
+
+ _aln.pos        350       360       370       380       390       400
+model1A   YSAPPGDLPRPEYDLELITSCSSNVSVALDSRGRRRYFLTRDPTTPITRAAWETVRHSPVNSWLGNII 
+model2A   YSAPPGDLPRPEYDLELITSCSSNVSVALDSRGRRRYFLTRDPTTPITRAAWETVRHSPVNSWLGNII 
+ _consrvd ********************************************************************
+
+ _aln.p  410       420       430       440       450       460       470
+model1A   QYAPTIWVRMVIMTHFFSILLAQDTLNQNLNFEMYGAVYSVNPLDLPAIIERLHGLEAFSLHTYSPHE 
+model2A   QYAPTIWVRMVIMTHFFSILLAQDTLNQNLNFEMYGAVYSVNPLDLPAIIERLHGLEAFSLHTYSPHE 
+ _consrvd ********************************************************************
+
+ _aln.pos  480       490       500       510       520       530       540
+model1A   LSRVAATLRKLGAPPLRAWKSRARAVRASLIAQGARAAICGRYLFNWAVKTKLKLTPLPEASRLDLSG 
+model2A   LSRVAATLRKLGAPPLRAWKSRARAVRASLIAQGARAAICGRYLFNWAVKTKLKLTPLPEASRLDLSG 
+ _consrvd ********************************************************************
+
+ _aln.pos    550
+model1A   WFTVGAGGGDIYHS 
+model2A   WFTVGAGGGDIYHS 
+ _consrvd **************
